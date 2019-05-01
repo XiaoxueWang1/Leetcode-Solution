@@ -10,7 +10,7 @@ Solution of leetcode
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  | [C++](./CPP%20Solution/isMatch.cpp) |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [C++](./CPP%20Solution/isPalindrome.cpp) |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [Python](./Python%20Solution/myAtoi.py) |
-| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C++]./CPP%20Solution/reverse.cpp |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C++](./CPP%20Solution/reverse.cpp) |
 | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python](./Python%20Solution/convert.py) |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [C++](./CPP%20Solution/longestPalindrome.cpp) |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/path-sum-ii/)  | [Python](./Python%20Solution/findMedianSortedArrays.py) |
