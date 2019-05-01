@@ -3,8 +3,8 @@ Solution of leetcode
 
 | Problem                                                              | Solution                                              | 
 | -------------------------------------------------------------        | :-------------------------------------------------:   |
-| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)  | [C++](./CPP%20Solution/Distinct%postorderTraversal.cpp) |
-| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | [C++](./CPP%20Solution/Distinct%preorderTraversal.cpp) |
+| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)  | [C++](./CPP%20Solution/postorderTraversal.cpp) |
+| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | [C++](./CPP%20Solution/preorderTraversal.cpp) |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)  | [C++](./CPP%20Solution/Distinct%20Subsequences.cpp) |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [C++](./CPP%20Solution/Flatten%20Binary%20Tree%20to%20Linked%20List.cpp) |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)  | [C++](./CPP%20Solution/Path%20Sum%20II.cpp) |
